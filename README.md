@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and CS 
 - 🌱 I’m currently learning Intro to Data Science
 - 💞️ I’m looking to collaborate on Beginner DS projects!
-- 📫 How to reach me on LinkedIn @ Neil Kaizer Bango
+- 📫 How to reach me on LinkedIn @ [Neil Kaizer Bango](https://www.linkedin.com/in/neil-bango/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like Cars, Video Games, Technology, and Computers!
 
