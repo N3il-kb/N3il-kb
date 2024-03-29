@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Beginner DS projects!
 - 📫 How to reach me on LinkedIn @ [Neil Kaizer Bango](https://www.linkedin.com/in/neil-bango/)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like
+- ⚡ Fun fact: I like Cars, Video Games, Technology, and Computers!
 
 <!---
 N3il-kb/N3il-kb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
