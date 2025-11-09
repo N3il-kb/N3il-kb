@@ -3,5 +3,5 @@
        alt="starfield"
        width="1128"
        height="191"
-       style="border-radius:10px;" />
+       style="opacity:0.6;border-radius:8px;" />
 </p>
